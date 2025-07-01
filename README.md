@@ -1,2 +1,4 @@
 # MIA
-This is a maintenance program for windows and linux operating systems, it simplifies the typing of commands to the users with a click or interaction with the program, solving network, system, diagnostic, cleaning, updates, firewall and security problems, as well as including additional functions potentially useful for the user. it is programmed in python.
+Es un programa de mantenimiento para sistemas operativos Windows simplifica la digitación de comandos a los usuarios con un clic o interacción con el programa, solucionando problemas de red, sistema, diagnóstico, limpieza, actualizaciones, firewall y seguridad, además de incluir funciones adicionales potencialmente útiles para el usuario.
+
+En su primera entrega MIA se enfocará en Sistemas operativos Windows. El enfoque son usuarios que tengan pocos conocimientos de como realizar mantenimiento a sus equipos y/o carecen de tiempo para poder ejecutar dichas soluciones para sus equipos. no se descarta la oportunidad de incluir nuevas entregas potenciando el aprendizaje en los usuarios! ¡espero que disfruten el programa!
