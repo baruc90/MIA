@@ -169,7 +169,7 @@ def ejecutarComando2(valor2):
 
 def enlaceNavegador(numeroEnlace):
 
-    enlace= ["https://linktr.ee/barucaguilar", "https://github.com/baruc90/MIA"]
+    enlace= ["https://baruc90.github.io/", "https://github.com/baruc90/MIA"]
     url = enlace[numeroEnlace]
 
     webbrowser.open_new_tab(url)
@@ -283,31 +283,21 @@ categoria6 = tk.LabelFrame(marcoMenu, text=" Funciones adicionales ", font=fuent
 categoria6.grid(row=2, column=1, sticky="nsew", padx=5, pady=5)
 tk.Label(categoria6, text="En Contruccion...", font=fuente_definida2).pack(anchor="w")
 """
-#tk.Button(categoria6, text="Entrar", font=fuente_definida4, command=lambda: mostrarVentana(6)).pack(anchor="w")
-
-#pie = tk.Label(text="Creado por:Baruc Fabrizzio Aguilar", font=fuente_definida4, padx=20, pady=20)
 
 
-
-
-
-
-#pie.pack( side="center")
-#btncontacto = tk.Button(text="contacto")
-#btncontacto.pack( side="right")
 #se muestra el frame 
 marcoMenu.pack()
 marcoMenuInferior = tk.Frame(ventana)
 marcoMenuInferior.pack(fill="both", expand=True)
 
-
+#enlaces a baruc90.github.io y repositorio del proyecto 
 botondescarga = tk.Button(marcoMenuInferior, text="¡Descarga la Ultima versión!", command=lambda: enlaceNavegador(1))
 botondescarga.pack(side="right", padx=5)
 
 botoncontacto = tk.Button(marcoMenuInferior, text="Contactos", command=lambda: enlaceNavegador(0))
 botoncontacto.pack(side="right", padx=5)
 
-labelInfo = tk.Label(marcoMenuInferior, text="Autor: Baruc Fabrizzio Aguilar")
+labelInfo = tk.Label(marcoMenuInferior, text="Autor: Baruc Aguilar Bolados")
 labelInfo.pack(side="right", padx=5)
 
 
