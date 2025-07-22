@@ -19,4 +19,4 @@ espero que disfruten el programa!
 <h3>Redes de contacto:</h3>
 
 [Conectémonos en LinkedIn](https://www.linkedin.com/in/barucaguilarbolados/) o
-[Linktree](https://linktr.ee/barucaguilar)
+[github.io](https://baruc90.github.io/)
